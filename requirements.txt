@@ -1,0 +1,4 @@
+openai
+datasets
+python-dotenv
+tqdm
